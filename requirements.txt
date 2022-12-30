@@ -2,5 +2,7 @@ Flask
 sklearn
 pandas
 numpy
-matplotlib
-seaborn
+matplotlib==3.6.2
+matplotlib-inline==0.1.6
+seaborn==0.12.1
+scikit-learn
